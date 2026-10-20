@@ -7,6 +7,8 @@ function App() {
     <>
       <h1>Mi Poryecto de Front React</h1>
       <p>Samuel</p>
+      <p>Cinthia</p>
+      <p>Nicole</p>
     </>
   )
 }
