@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <h1>Mi Poryecto de Front React</h1>
+      <p>Samuel</p>
     </>
   )
 }
